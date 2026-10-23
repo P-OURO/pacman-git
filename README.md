@@ -9,4 +9,6 @@ El pots jugar a **PC**, al **mòvil** o a **màquines recreatives** (avui dia es
 👾👾🕹️🟡👻👾👾
 ---
 
+# [Jugar a Pac-Man (això no es un virus en absolut :D)](https://pacmangratis.net/)
+
 #### *Fet per [Paula Ouro](https://github.com/P-OURO/pacman-git)! • • • ⍩⃝***
