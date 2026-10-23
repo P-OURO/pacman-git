@@ -11,4 +11,6 @@ El pots jugar a **PC**, al **mòvil** o a **màquines recreatives** (avui dia es
 
 # [Jugar a Pac-Man (això no es un virus en absolut :D)](https://pacmangratis.net/)
 
+![Foto joc Pacman](https://simzine.news/wp-content/uploads/2022/03/pacman2.png)
+
 #### *Fet per [Paula Ouro](https://github.com/P-OURO/pacman-git)! • • • ⍩⃝***
