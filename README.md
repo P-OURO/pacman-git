@@ -17,6 +17,7 @@ El pots jugar a **PC**, al **mòvil** o a **màquines recreatives** (avui dia es
 ## 👻Fantasmes👻
 ### [🔴Blinky🔴](blinky.md)
 ### [🎀Pinky🎀](pinky.md)
+### [🔵Inky🔵](inky.md)
 ---
 
 #### *Fet per [Paula Ouro](https://github.com/P-OURO/pacman-git)! • • • ⍩⃝***
